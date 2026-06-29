@@ -20,7 +20,6 @@ class Solution:
                 result = even_palindrome
         
         return result
-    
 
 if __name__ == "__main__":
     sol = Solution()
